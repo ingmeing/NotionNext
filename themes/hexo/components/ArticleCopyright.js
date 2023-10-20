@@ -6,7 +6,7 @@ import { useEffect, useState } from 'react'
 import CONFIG from '../config'
 
 export default function ArticleCopyright () {
-  if (!CONFIG.ARTICLE_COPYRIGHT || isArticleEndPage) {
+  if (!CONFIG.ARTICLE_COPYRIGHT) {
     return <></>
   }
   const router = useRouter()
