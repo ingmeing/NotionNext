@@ -7,7 +7,7 @@ const CONFIG = {
   HEDEAR_BUTTON_2_URL: 'https://blog.tangly1024.com/',
 
   // 首页大图英雄板块
-  HERO_TITLE_1: 'NotionNext',
+  HERO_TITLE_1: '觉醒健康',
   HERO_P_1: '快速搭建独立站、轻松放大品牌价值！',
   HERO_BUTTON_1_TEXT: '开始体验',
   HERO_BUTTON_1_LINK: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next',
