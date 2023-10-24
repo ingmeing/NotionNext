@@ -4,7 +4,7 @@ import React from 'react'
 
 const Logo = props => {
   const { siteInfo } = props
-  const formattedTitle = siteInfo?.title?.replace(' ', '\n')
+  //const formattedTitle = siteInfo?.title?.replace(' ', '\n')
 return (
     <Link href='/' passHref>
       <a className='flex flex-col justify-center items-center cursor-pointer'>
