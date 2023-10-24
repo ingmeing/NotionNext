@@ -60,7 +60,7 @@ const Hero = props => {
                 <div className='font-black text-4xl md:text-5xl shadow-text'>小小改变&emsp;就趁现在</div> 
                 {/* {siteInfo?.title} */}
                 {/* 站点欢迎语 */}
-                <div className='mt-2 h-12 items-center text-center font-medium shadow-text text-lg'>
+                <div className='mt-6 h-12 items-center text-center font-medium shadow-text text-lg'>
                     <span id='typed' />
                 </div>
 
