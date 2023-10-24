@@ -9,8 +9,7 @@ return (
     <Link href='/' passHref>
       <a className='flex flex-col justify-center items-center cursor-pointer'>
         <img
-          src="/images/jxlogo2.png" // 替换成您的Logo图片路径
-          //alt={formattedTitle || BLOG.TITLE}
+          src="/images/jxlogo2.png" // 替换成您的Logo图片路径 alt={formattedTitle || BLOG.TITLE}
           style={{ width: '160px', height: '50px' }}// 根据需要设置Logo图片的宽度和高度
         />
       </a>
