@@ -11,7 +11,7 @@ return (
         <img
           src="/images/jxlogo2.png" // 替换成您的Logo图片路径
           //alt={formattedTitle || BLOG.TITLE}
-          className='w-110 h-33' // 根据需要设置Logo图片的宽度和高度
+          style={{ width: '110px', height: '33px' }}// 根据需要设置Logo图片的宽度和高度
         />
       </a>
     </Link>
